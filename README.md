@@ -60,4 +60,6 @@ The Blood Bank system ensures efficient handling of blood inventory, donor and r
 ![Profile](https://github.com/user-attachments/assets/07b2c428-6a4f-4946-81e6-fcef0c2e8081)
 
 
+## License
 
+This project is licensed under the [MIT License](https://github.com/anirudhkosgi/blood-bank/blob/main/LICENSE).
