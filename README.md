@@ -31,6 +31,14 @@ The Blood Bank system ensures efficient handling of blood inventory, donor and r
 - Access the application at `http://localhost/bloodbank`.
 - Use the frontend interface to interact with the different modules (Admin, Available Blood, login/Register(reciver and hospital).
 
+## Admin Panel
+   Open any browser and type http://localhost/bloodbank/admin.php to open Admin Login Panel.
+   
+   Enter Below Credentials to login to the Admin Panel.<br>
+   <b> Username = </b> chetan<br>
+   <b>Password = </b> 123
+   
+
 ## Contributors
 
 - [Anirudh Kosgi](https://github.com/anirudhkosgi)
