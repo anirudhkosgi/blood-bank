@@ -47,4 +47,5 @@ The Blood Bank system ensures efficient handling of blood inventory, donor and r
 ## Screenshots
 
 ### Homepage
-![homepage snap](https://i.postimg.cc/bvqRdtqK/Screenshot-225.png)
+![Homepage](https://github.com/user-attachments/assets/e560cb8f-8b4d-4088-91c4-c01aec8622f0)
+
